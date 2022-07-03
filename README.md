@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! I'm Debra 🙌🏻👋🏻
+### I'm a Front End Developer 👩🏻‍💻
 
-<!--
-**Debra-Fabbri/debra-fabbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [Angular, React, Node, Docker],
+  challenge: "I'm doing the #YoProgramo focused on Full Stack Java Development"
+}
+```
+- 🔭 I am currently working on freelance projects
 
-Here are some ideas to get you started:
+- 🌱 I am currently learning React and studying #YoProgramo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to contact me: email: debrafabbri@gmail.com
+
