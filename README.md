@@ -1,11 +1,11 @@
 ### Hi! I'm Debra 🙌🏻👋🏻
-### I'm a Front End Developer 👩🏻‍💻
+### I'm a Front End Developer 👩🏻‍💻 and Python Developer
 
 ```javascript
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [Angular, React, Node, Docker],
+  tools: [Angular, Django, Node, Docker],
   challenge: "I'm doing the #YoProgramo focused on Full Stack Java Development"
 }
 ```
