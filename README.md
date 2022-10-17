@@ -1,5 +1,5 @@
 ### Hi! I'm Debra 🙌🏻👋🏻
-### I'm a Front End Developer 👩🏻‍💻 and Python Developer
+### I'm a 🏻 Data Scientist and Full Stack Developer
 
 ```javascript
 const thai = {
